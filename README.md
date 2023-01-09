@@ -1,13 +1,16 @@
 <h5 align='center'> Hi there 👋, I am </h5>
 
 <div align='center'>
-<p align='center' width='50px' height='50px'>
+<p align='center'>
   
- ![KP](https://github.com/karthi-prasad/assets/blob/main/unnamed.png)   
+ ![KP](https://github.com/karthi-prasad/assets/blob/main/KP.png)   
+  
 </p>
-  </div>
 
-<h4 align='center'></h4> 
+  <h2 align='center'>Karthi Prasad S</h2>
+</div>
+
+<h4 align='center'></h4>
 
 
 ###  :telescope:   About Me :
@@ -104,11 +107,24 @@
 
  </div>
  
- 
- ### Contact me :
- 
- Follow me for intresting updates.
+ ### Contact Me :
+ ---
  
  <!-- Social Media -->
+ <div align='center'>
+  
+  <h5> Say, hi to your buddy. </h5>
+  
+  [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
+  [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][2]
+  [![kaggle](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Kaggle.png (Kaggle))][3]
+  
+  
+ </div>
+ 
+ [1]: https://www.linkedin.com/in/karthi-prasad-s-85b159227/
+ [2]: https://github.com/karthi-prasad77
+ [3]: https://kaggle.com/
+
 
 
