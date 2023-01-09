@@ -4,7 +4,7 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+
 https://forthebadge.com/generator/?plabel=Pytorch&pbg=%2353B909
 
 
