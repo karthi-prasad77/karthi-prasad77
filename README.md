@@ -3,7 +3,7 @@
 <h4 align='center'></h4> 
 
 
-###  :telescope:   About Me 
+###  :telescope:   About Me :
 ---
 
 - I am Karthi Prasad S a Cross Platform Developer (specialization in Artificial Intelligence, Software Development and Cyber Security) pursuing my Bachelors in Artificial Intelligence and Data Science.
@@ -26,7 +26,7 @@
 
 </div>
 
-### :superhero_man: My Favourite Technologies
+### :superhero_man: My Favourite Technologies :
 ---
 <!-- Data Preprocessing Tools -->
 <div align='center'>
@@ -69,5 +69,39 @@
 
 </div>
 
+<!-- Databases -->
+<div align='center'>
+  
+  ![postgres-sql](https://user-images.githubusercontent.com/107131277/211270125-ea2788c7-dd3b-4cf1-8510-feccf08dbbca.svg)
+  ![mongo-db](https://user-images.githubusercontent.com/107131277/211270217-0961460d-5b96-4c28-a570-91b45799b5b7.svg)
+  
+</div>
+
+### My Development Environment :
+---
+
+<!-- Development Tools -->
+<div align='center'>
+
+ ![ubuntu](https://user-images.githubusercontent.com/107131277/211270639-27a0ae5e-da0e-4c22-ae3f-4876e65173ca.svg)
+ ![vs-code](https://user-images.githubusercontent.com/107131277/211270749-8aba5918-a59d-4872-aaee-400237e5ebd8.svg)
+ ![docker](https://user-images.githubusercontent.com/107131277/211270937-0f786e46-3971-4ad7-8f41-8a8dc2f7978a.svg)
+ 
+</div>
+
+<!-- Version control Tools -->
+<div align='center'>
+  
+  ![git](https://user-images.githubusercontent.com/107131277/211274579-5a47b855-4a29-4ef1-8dc2-7f3cd106b89c.svg)
+  ![github](https://user-images.githubusercontent.com/107131277/211274697-7f5db8cf-d59d-4f40-9b59-333e6412fb91.svg)
+
+ </div>
+ 
+ 
+ ### Contact me :
+ 
+ Follow me for intresting updates.
+ 
+ <!-- Social Media -->
 
 
