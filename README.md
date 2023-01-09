@@ -87,7 +87,7 @@
   
 </div>
 
-### My Development Environment :
+### :ninja: My Development Environment :
 ---
 
 <!-- Development Tools -->
@@ -107,7 +107,7 @@
 
  </div>
  
- ### Contact Me :
+ ### 	:raising_hand: Contact Me :
  ---
  
  <!-- Social Media -->
