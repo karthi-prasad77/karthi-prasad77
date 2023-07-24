@@ -84,17 +84,18 @@
 <!-- Development Tools -->
 <div align='center'>
 
- ![ubuntu](https://user-images.githubusercontent.com/107131277/211270639-27a0ae5e-da0e-4c22-ae3f-4876e65173ca.svg)
- ![vs-code](https://user-images.githubusercontent.com/107131277/211270749-8aba5918-a59d-4872-aaee-400237e5ebd8.svg)
- ![docker](https://user-images.githubusercontent.com/107131277/211270937-0f786e46-3971-4ad7-8f41-8a8dc2f7978a.svg)
+![windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)
+ ![ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=%23E95420)
+ ![vs-code](https://img.shields.io/badge/VS%20CODE-blue?style=for-the-badge&logo=Visual%20Studio%20Code)
+ ![docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker)
  
 </div>
 
 <!-- Version control Tools -->
 <div align='center'>
-  
-  ![git](https://user-images.githubusercontent.com/107131277/211274579-5a47b855-4a29-4ef1-8dc2-7f3cd106b89c.svg)
-  ![github](https://user-images.githubusercontent.com/107131277/211274697-7f5db8cf-d59d-4f40-9b59-333e6412fb91.svg)
+
+  ![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=Git)
+  ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github)
 
  </div>
  
