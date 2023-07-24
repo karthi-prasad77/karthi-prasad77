@@ -27,7 +27,7 @@
 
 <div align='center'>
   
-![python](https://user-images.githubusercontent.com/107131277/211264488-976c0fcb-ce02-4b4a-9f1c-328206bc58c8.svg)
+![python]([https://user-images.githubusercontent.com/107131277/211264488-976c0fcb-ce02-4b4a-9f1c-328206bc58c8.svg](https://camo.githubusercontent.com/314b3cbfef1fd5ba1499c31f41a8cc84ab036eb37427e0f28dbd2da4e619e95d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d676f6c64))
 ![javascript](https://user-images.githubusercontent.com/107131277/211264644-1f460ef5-4066-4d52-a018-56b44f983607.svg)
 ![html-5](https://user-images.githubusercontent.com/107131277/211265141-7087f5e5-008c-45bd-9081-6aa0187eba8a.svg)
 ![css-3](https://user-images.githubusercontent.com/107131277/211265210-f19163ae-4d27-4d64-a5e1-4f0941acc5bc.svg)
