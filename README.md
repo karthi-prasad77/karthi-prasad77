@@ -107,9 +107,9 @@
   
   <h5> Say, hi to your buddy. </h5>
   
-  [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
-  [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][2]
-  [![kaggle](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Kaggle.png (Kaggle))][3]
+  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn (LinkedIn))][1]
+  [![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github (Github))][2]
+  [![kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle (Kaggle))][3]
   
   
  </div>
