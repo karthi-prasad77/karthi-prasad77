@@ -3,20 +3,23 @@
 <div align='center'>
 <p align='center'>
   
- ![KP](https://github.com/karthi-prasad/assets/blob/main/KP.png)   
+ <img src="https://media.giphy.com/media/1Bafd53CUbmBa/giphy.gif" height=500 width=900  >   
   
 </p>
 
-  <h2 align='center'>Karthi Prasad S</h2>
+  <h3 align='center'>I'm Karthi Prasad</h3>
 </div>
 
 <h4 align='center'></h4>
 
+<div>
 
 ###  :telescope:   About Me :
 ---
 
-- I am Karthi Prasad S a Cross Platform Developer (specialization in Artificial Intelligence, Software Development and Cyber Security) pursuing my Bachelors in Artificial Intelligence and Data Science.
+<img src="https://media.giphy.com/media/FO6bpUSu48EUCe9aVu/giphy.gif" align="right" height=240>
+
+- I am Karthi Prasad S a Cross Platform Developer (specialization in Artificial Intelligence, Software Development (Full Stack Developer) pursuing my Bachelors in Artificial Intelligence and Data Science.
 
 - I am working on various technologies and have better understanding on technologies **Artificial Intelligence**, **Software Engineering** and **Cyber Security**, I am currently on the path of taking a potent AI research. 
 
@@ -24,8 +27,10 @@
 
 ### :technologist: I write my codes in
 ---
-
+</div>
 <div align='center'>
+
+<img src="https://media.giphy.com/media/gO4Bpf6lOwykw/giphy.gif" align="center margin-bottom: 20px;">
   
 ![python](https://camo.githubusercontent.com/314b3cbfef1fd5ba1499c31f41a8cc84ab036eb37427e0f28dbd2da4e619e95d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d676f6c64)
 ![javascript](https://camo.githubusercontent.com/5ed3d5630acc9992f2a8bdaa41e1e855ac06b7e06b3b57cbe4441c18ab3157dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b266c6162656c436f6c6f723d2532333030303030)
@@ -40,6 +45,8 @@
 ---
 <!-- Data Preprocessing Tools -->
 <div align='center'>
+
+<img src="https://media.giphy.com/media/YN7DcBA6rgI9opx0aj/giphy.gif" align="left margin-right: 10px">
   
   ![numpy](https://camo.githubusercontent.com/fb0d02c6b177498fa8f3c4f12185b1d8bff83ffd6685ba6a65822ee84417e63c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3031333232303f267374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079)
   ![pandas](https://camo.githubusercontent.com/42a4004cdd192057ed74224041176bc6bb5a79489026f3dba83f2099abd319c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3133303635343f267374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173)
