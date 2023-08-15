@@ -21,7 +21,7 @@
 
 - I am Karthi Prasad S a Cross Platform Developer (specialization in Artificial Intelligence, Software Development (Full Stack Developer) pursuing my Bachelors in Artificial Intelligence and Data Science.
 
-- I am working on various technologies and have better understanding on technologies **Artificial Intelligence**, **Software Engineering** and **Cyber Security**, I am currently on the path of taking a potent AI research. 
+- I am working on various technologies and have better understanding on technologies **Artificial Intelligence** and **Software Engineering**, I am currently on the path of taking a potent AI research. 
 
 - Primary focus is on reinforcement learning research and invent new solutions, products to help millions of people around the world. Always happy to solve complex problems and provide solution to that problems.
 
