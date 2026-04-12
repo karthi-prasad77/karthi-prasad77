@@ -26,7 +26,6 @@
 
 ## 🧪 Current Work
 
-- 🔭 Exploring reinforcement learning in sparse-reward environments at **HP Inc**
 - 📄 Reproducing and studying seminal RL papers to deepen research fundamentals
 - 🛠️ Building AI-powered tools that bridge research and real-world deployment
 - 📚 Pursuing B.Tech in **Artificial Intelligence & Data Science**
