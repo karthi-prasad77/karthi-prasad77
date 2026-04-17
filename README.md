@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthi-prasad-s-85b159227/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthi-prasad77)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
-[![HP Inc](https://img.shields.io/badge/HP%20Inc-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://github.com/HP)
+[![HP Inc](https://img.shields.io/badge/HP%20Inc-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://www.linkedin.com/company/hp)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Karthi-Prasad77&color=0096D6&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/karthi-prasad77?style=for-the-badge&logo=github&color=181717)
